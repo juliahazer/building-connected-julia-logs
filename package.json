@@ -19,6 +19,7 @@
   "homepage": "https://github.com/BuildingConnected/interviews",
   "dependencies": {
     "Faker": "~0.7.0",
+    "binary-search-insert": "^1.0.3",
     "bluebird": "^3.4.1",
     "lodash": "^4.13.1"
   },
